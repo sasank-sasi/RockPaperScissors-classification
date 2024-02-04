@@ -4,6 +4,10 @@ Overview
 
 This project involves training a machine learning model to classify images of hand gestures representing Rock, Paper, and Scissors. The model is based on a convolutional neural network (CNN) and is capable of predicting the gesture shown in a given image.
 
+Dataset
+
+https://drive.google.com/drive/folders/1cwJpTuC0ytvnoLqBc84N1GyLg2v1-z1i?usp=share_link
+
 Features
 
 Image Classification: The model predicts whether an input image represents Rock, Paper, or Scissors.
